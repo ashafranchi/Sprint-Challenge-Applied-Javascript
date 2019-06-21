@@ -32,7 +32,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
-The DOM gives an interface to work with the html elements of a webpage. More specifically, it is the Document Object Model that provides an object representtion of these elements using a tree structure with property keys.
+The DOM gives an interface to work with the html elements of a webpage. More specifically, it is the Document Object Model that provides an object representation of these elements using a tree structure with property keys.
 
 2. What is an event?
 
@@ -44,7 +44,7 @@ An event listener is set on an element with a callback to track for specific eve
 
 4. Why would we convert a NodeList into an Array?
 
-We sometimes convert NodeLists into array because although NodeLists have 'array-like' properties, only actual arrays allow the programmer to have access to the .forEach method.
+We sometimes convert NodeLists into array because although NodeLists have 'array-like' properties they only allow the programmer to have access to the .forEach method, which Arrays have many methods available.
 
 5. What is a component?
 
